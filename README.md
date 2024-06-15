@@ -7,6 +7,14 @@ Maybe a chat room in the future.
   * Users
   * Posts
 
+## How to clone this repository
+
+I've divided this repository using submodules. If you want to clone all of them:
+
+```
+git clone --recurse-submodules -j8 https://github.com/fedegallar/blog-project-php.git
+```
+
 ## Post site
 This is the main site where we can manage our posts with our users and with our comments.
 
